@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+xgboost
+scikit-learn
+lightgbm
+yfinance
+ta
+scipy
+tqdm
+plotly
