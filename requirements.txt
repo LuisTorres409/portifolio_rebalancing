@@ -9,3 +9,4 @@ ta
 scipy
 tqdm
 plotly
+matplotlib
